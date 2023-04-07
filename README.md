@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning Data Science  
   
 
-- 🌱 I’m student Gebze Technical University  
+- 🌱 I’m 4th grade student at Gebze Technical University  
    
   
 
