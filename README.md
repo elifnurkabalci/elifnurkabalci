@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Elifnur, I study on Computer Engineering</div>  
+### <div align="center">I'm Elifnur, I graduated from Computer Engineering </div>  
   
 
-- 🔭 I’m currently learning Data Science  
+  - 🔭 I’m a Java Developer  
   
 
-- 🌱 I’m 4th grade student at Gebze Technical University  
-   
-  
-
+  - 🍀 I'm currently working in Turkcell Global Bilgi
 <br/>  
 
 
